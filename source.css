@@ -6,7 +6,7 @@
    background: var(--background-mentioned-side);
 }
 .mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover  {
-   background: var(--background-mentioned-side);
+   background: var(--background-mentioned-hover);
 }
 
 /* Clyde Notifications. */
