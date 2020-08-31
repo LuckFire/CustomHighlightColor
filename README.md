@@ -20,4 +20,4 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
     
 For manual installation, go to **your themes folder, open a command prompt / powershell / terminal / or git bash** and enter the following:
 
-    git clone https://github.com/LuckFire/CustomPingClydeColors
+    git clone https://github.com/LuckFire/CustomHighlightColors
