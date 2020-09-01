@@ -7,7 +7,7 @@ Customize the ping as well as Clyde's highlight colors.
 ## Installation
 For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste the following code:
 
-    @import url("https://raw.githack.com/LuckFire/CustomHighlightColors/master/source.css");
+    @import url("https://raw.githack.com/LuckFire/CustomHighlightColor/master/source.css");
 
     :root {
             --ping-side: rgb(114, 137, 218);
@@ -20,4 +20,4 @@ For quick installation, go to **Settings -> Themes -> Quick CSS** and copy-paste
     
 For manual installation, go to **your themes folder, open a command prompt / powershell / terminal / or git bash** and enter the following:
 
-    git clone https://github.com/LuckFire/CustomHighlightColors
+    git clone https://github.com/LuckFire/CustomHighlightColor
